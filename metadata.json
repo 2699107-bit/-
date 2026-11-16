@@ -1,0 +1,6 @@
+{
+  "name": "테트리스 (TETRIS)",
+  "description": "SRS 회전 시스템, 홀드, 고스트 블록, 콤보 시스템을 갖춘 정통 2D 테트리스 아케이드 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
